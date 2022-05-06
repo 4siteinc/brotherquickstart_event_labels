@@ -1,6 +1,8 @@
 # 4SITE Inc Brother Quick Start
 ## Brother Flutter Quick Start Font
 ### brother hack 2022 Micro Challenge 
+[Youtube video](https://www.youtube.com/watch?v=9qeh29oszvQ)
+
 [https://brotherhackathon.com/](https://brotherhackathon.com/)
 
 A Flutter project to demo 'how to print' to mobile Brother printers using flutter.  
